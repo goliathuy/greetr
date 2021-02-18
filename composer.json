@@ -1,0 +1,19 @@
+{
+    "name": "marioalbornoz/greetr",
+    "description": "PrimerPrueba paquete laravel",
+    "type": "library",
+    "require": {},
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "malbornoz",
+            "email": "mario.albornoz@woow.com.uy"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Tresidigital\\Greetr\\": "src/"
+        }
+    }
+}
